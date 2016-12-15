@@ -18,3 +18,22 @@ title: GIP Websites 2016-2017
 | 11 | [Jelle](https://jelles-immalle.github.io/) |
 | 12 | [Kenzo](https://kenzovdw-immalle.github.io/GipWebsite/) |
 | 13 | [Arne](https://arnevdl-immalle.github.io/gip/) |
+
+# planning december
+
+- 08u30	Axel	
+- 08u50	Cedric 	
+- 09u10	Jelle	
+- 09u30	Daan	
+- 09u50	Bert	
+- 10u10	Pauze 	
+- 10u30	Sander 	
+- 10u50	Kenzo	
+- 11u10	Remco	
+- 11u30	Thom	
+- 11u50	Pauze	
+- 12u30	Kathleen 	
+- 12u50	Arne
+- 13u10	Wout
+- 13u30	Liam
+
