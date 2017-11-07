@@ -13,7 +13,7 @@ title: GIP Websites 2016-2017
 | 6 | [Karam](https://karamk-immalle.github.io/GIPsite/) | [repo](https://github.com/karamk-immalle/GIPsite) |
 | 7 | [Timour](https://timourm-immalle.github.io/GIPMeeusenTimour_Website/) | [repo](https://github.com/timourM-immalle/GIPMeeusenTimour_Website) |
 | 8 | [Eline](https://scheperse-immalle.github.io/) | [repo](https://github.com/scheperse-immalle/scheperse-immalle.Github.io) |
-| 9 | [Michiel](https://github.com/MichielVE-immalle/GIPwebsite) | [repo](https://michielve-immalle.github.io/GIPwebsite/index.html) |
+| 9 | [Michiel](https://michielve-immalle.github.io/GIPwebsite/index.html) | [repo](https://github.com/MichielVE-immalle/GIPwebsite) |
 | 10 | [Mathias](https://mathiasv-immalle.github.io/GipSite-6ITNnr10/index.html) | [repo](https://github.com/MathiasV-immalle/GipSite-6ITNnr10) |
 
 # planning december
