@@ -18,7 +18,14 @@ title: GIP Websites 2016-2017
 
 # planning december
 
-- 8u30 Timour
-- 8u50 Michiel
-- ...
-
+- 08u30 Timour
+- 08u50 Michiel
+- 09u10 Eline
+- 09u40 Matias
+- 10u00 Billy
+- 10u20 PAUZE
+- 10u40 Loes
+- 11u00 Karam
+- 11u20 Tom
+- 11u40 Wout
+- 12u00 Liam
