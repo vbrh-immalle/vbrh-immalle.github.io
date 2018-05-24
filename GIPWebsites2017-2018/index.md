@@ -16,12 +16,26 @@ title: GIP Websites 2016-2017
 | 9 | [Michiel](https://michielve-immalle.github.io/GIPwebsite/index.html) | [repo](https://github.com/MichielVE-immalle/GIPwebsite) |
 | 10 | [Mathias](https://mathiasv-immalle.github.io/GipSite-6ITNnr10/index.html) | [repo](https://github.com/MathiasV-immalle/GipSite-6ITNnr10) |
 
+# planning juni
+
+- 08u30 Timour
+- 08u50 Liam
+- 09u10 Eline
+- 09u40 Mathias
+- 10u00 Billy
+- 10u20 PAUZE
+- 10u40 Loes
+- 11u00 Karam
+- 11u20 Tom
+- 11u40 Wout
+- 12u00 Michiel
+
 # planning december
 
 - 08u30 Timour
 - 08u50 Michiel
 - 09u10 Eline
-- 09u40 Matias
+- 09u40 Mathias
 - 10u00 Billy
 - 10u20 PAUZE
 - 10u40 Loes
