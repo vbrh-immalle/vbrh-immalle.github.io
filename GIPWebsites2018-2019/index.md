@@ -5,7 +5,7 @@ title: GIP Websites 2016-2017
 
 | klasnummer | website | repo |
 |---|---|---|
-| 8 | [Viktor Hendrickx](http://vbrh-immalle.github.io/) | [](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
+| 8 | [Viktor Hendrickx](http://ViktorH-immalle.github.io/) | [] |
 
 
 # planning juni
