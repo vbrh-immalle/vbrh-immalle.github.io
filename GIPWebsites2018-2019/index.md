@@ -11,7 +11,7 @@ title: GIP Websites 2016-2017
 | 3 | [Dante](http://DanteB-immalle.github.io/) | [repo]() |
 | 4 | [Indy Caluwe](https://github.com/indyc-immalle) |[repo](https://github.com/indyc-immalle/indyc-immalle.github.io)|
 | 6 | [Laurens] | [repo] |
-|10 | [Marcin](http://MarcinK-immalle.github.io/) |
+|10 | [Marcin](http://MarcinK-immalle.github.io/) | [repo](https://marcink-immalle.github.io/GIP_Site/) |
 | 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 
 
