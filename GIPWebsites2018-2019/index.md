@@ -6,7 +6,7 @@ title: GIP Websites 2016-2017
 | klasnummer | website | repo |
 |---|---|---|
 | 0 | [Voornaam](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
-| 4 | Indy Caluwe | https://github.com/indyc-immalle/vbrh-immalle.github.io |
+| 4 | [Indy Caluwe](https://github.com/indyc-immalle) | https://github.com/indyc-immalle/vbrh-immalle.github.io (https://github.com/indyc-immalle/indyc-immalle.github.io)|
 
 # planning juni
 
