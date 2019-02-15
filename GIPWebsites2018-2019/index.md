@@ -7,6 +7,8 @@ title: GIP Websites 2016-2017
 |---|---|---|
 | 0 | [Voornaam](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 | 1 | [Dries](https://driesa-immalle.github.io/GipSite3/) | [repo](https://github.com/DriesA-immalle/GipSite3) |
+| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
+
 
 
 # planning juni
