@@ -1,11 +1,10 @@
 ---
 layout: default
-title: GIP Websites 2016-2017
+title: GIP Websites 2018-2019
 ---
 
 | klasnummer | website | repo |
 |---|---|---|
-| 0 | [Voornaam](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 | 1 | [Dries](https://driesa-immalle.github.io/GipSite3/) | [repo](https://github.com/DriesA-immalle/GipSite3) |
 | 2 | [Mats]() | [repo](https://github.com/MatsB-immalle/GipSite) |
 | 3 | [Dante](http://DanteB-immalle.github.io/) | [repo]() |
@@ -15,7 +14,7 @@ title: GIP Websites 2016-2017
 | 7 | [Robbe]() | [repo](https://github.com/RobbeG-immalle/Website2.0) |
 | 8 | [Viktor Hendrickx](http://ViktorH-immalle.github.io/) | [] |
 | 9 | [Kitty]() | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
-|10 | [Marcin](http://MarcinK-immalle.github.io/) |
+| 10 | [Marcin](http://MarcinK-immalle.github.io/) |
 | 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 
 
