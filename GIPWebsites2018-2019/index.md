@@ -5,7 +5,7 @@ title: GIP Websites 2016-2017
 
 | klasnummer | website | repo |
 |---|---|---|
-| 5 | [Catho] | [repo] |
+| 5 | [Catho]() | [repo]() |
 
 
 # planning juni
