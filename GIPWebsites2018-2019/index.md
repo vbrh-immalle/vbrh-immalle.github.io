@@ -7,6 +7,8 @@ title: GIP Websites 2016-2017
 |---|---|---|
 | 0 | [Voornaam](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 | 2 | [Mats]() | [repo](https://github.com/MatsB-immalle/GipSite) |
+| 3 | [Dante](http://DanteB-immalle.github.io/) | [repo]() |
+| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 
 
 
