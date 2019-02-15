@@ -6,7 +6,7 @@ title: GIP Websites 2016-2017
 | klasnummer | website | repo |
 |---|---|---|
 | 0 | [Voornaam](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
-| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
+| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/NickZ-immalle/Site) |
 
 
 # planning juni
