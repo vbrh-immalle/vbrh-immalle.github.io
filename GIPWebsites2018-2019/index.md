@@ -16,7 +16,7 @@ title: GIP Websites 2016-2017
 | 8 | [Viktor Hendrickx](http://ViktorH-immalle.github.io/) | [] |
 | 9 | [Kitty]() | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
 |10 | [Marcin](http://MarcinK-immalle.github.io/) |
-| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
+| 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/NickZ-immalle/Site) |
 
 
 # planning juni
