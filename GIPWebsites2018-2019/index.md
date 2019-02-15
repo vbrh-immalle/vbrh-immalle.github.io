@@ -13,6 +13,7 @@ title: GIP Websites 2016-2017
 | 5 | [Catho]() | [repo]() |
 | 6 | [Laurens] | [repo] |
 | 7 | [Robbe]() | [repo](https://github.com/RobbeG-immalle/Website2.0) |
+| 8 | [Viktor Hendrickx](http://ViktorH-immalle.github.io/) | [] |
 | 9 | [Kitty]() | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
 |10 | [Marcin](http://MarcinK-immalle.github.io/) |
 | 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
