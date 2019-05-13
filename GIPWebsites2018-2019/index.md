@@ -13,11 +13,10 @@ title: GIP Websites 2018-2019
 | 6 | [Laurens] | [repo] |
 | 7 | [Robbe]() | [repo](https://github.com/RobbeG-immalle/Website2.0) |
 | 8 | [Viktor Hendrickx](https://github.com/ViktorH-immalle) | [] |
-| 9 | [Kitty]() | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
+| 9 | [Kitty](https://gip-site.firebaseapp.com/) | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
 | 10 | [Marcin](http://MarcinK-immalle.github.io/) | [repo](https://marcink-immalle.github.io/GIP_Site/) |
 | 11 | [Thibault](https://thibaultp-immalle.github.io/GIPTRY_bootstrap/) | [repo](https://github.com/ThibaultP-immalle/GIPTRY_bootstrap) |
 | 12 | [Nick](http://NickZ-immalle.github.io/) | [repo](https://github.com/NickZ-immalle/Site) |
-
 
 
 # planning juni
