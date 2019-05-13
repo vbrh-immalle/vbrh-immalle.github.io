@@ -5,7 +5,7 @@ title: GIP Websites 2018-2019
 
 | klasnummer | website | repo |
 |---|---|---|
-| 1 | [Dries](https://driesa-immalle.github.io/GipSite3/) | [repo](https://github.com/DriesA-immalle/GipSite3) |
+| 1 | [Dries](https://driesa-immalle.github.io/EvieGipSite/) | [repo](https://github.com/DriesA-immalle/EvieGipSite) |
 | 2 | [Mats]() | [repo](https://github.com/MatsB-immalle/GipSite) |
 | 3 | [Dante](http://DanteB-immalle.github.io/) | [repo]() |
 | 4 | [Indy Caluwe](https://github.com/indyc-immalle) |[repo](https://github.com/indyc-immalle/indyc-immalle.github.io)|
