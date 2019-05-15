@@ -12,7 +12,7 @@ title: GIP Websites 2018-2019
 | 5 | [Catho](https://github.com/cathoDr-immalle/vbrh-immalle.github.io) | [repo](https://github.com/cathoDr-immalle/GipSite) |
 | 6 | [Laurens] | [repo] |
 | 7 | [Robbe]() | [repo](https://github.com/RobbeG-immalle/Website2.0) |
-| 8 | [Viktor Hendrickx](https://github.com/ViktorH-immalle) | [] |
+| 8 | [Viktor Hendrickx](https://github.com/ViktorH-immalle) |[repo](https://viktorh-immalle.github.io/GipWebsite/) |
 | 9 | [Kitty](https://gip-site.firebaseapp.com/) | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
 | 10 | [Marcin](http://MarcinK-immalle.github.io/) | [repo](https://marcink-immalle.github.io/GIP_Site/) |
 | 11 | [Thibault](https://thibaultp-immalle.github.io/GIPTRY_bootstrap/) | [repo](https://github.com/ThibaultP-immalle/GIPTRY_bootstrap) |
