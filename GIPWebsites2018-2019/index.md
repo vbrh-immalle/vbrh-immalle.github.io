@@ -10,7 +10,7 @@ title: GIP Websites 2016-2017
 | 2 | [Mats]() | [repo](https://github.com/MatsB-immalle/GipSite) |
 | 3 | [Dante](http://DanteB-immalle.github.io/) | [repo]() |
 | 4 | [Indy Caluwe](https://github.com/indyc-immalle) |[repo](https://github.com/indyc-immalle/indyc-immalle.github.io)|
-| 5 | [Catho](https://github.com/cathoDr-immalle/vbrh-immalle.github.io) | [repo](https://github.com/cathoDr-immalle/GipSite) |
+| 5 | [Catho](https://cathodr-immalle.github.io/GipSite/it/Website/main.html) | [repo](https://github.com/cathoDr-immalle/GipSite) |
 | 6 | [Laurens] | [repo] |
 | 9 | [Kitty]() | [repo](https://github.com/KittyJ-Immalle/GIPSite) |
 |10 | [Marcin](http://MarcinK-immalle.github.io/) |
