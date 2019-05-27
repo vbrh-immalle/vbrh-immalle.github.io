@@ -21,14 +21,16 @@ title: GIP Websites 2018-2019
 
 # planning juni
 
-- 08u30 
-- 08u50
-- 09u10
-- 09u40
-- 10u00
+- 08u30 : Dries
+- 08u50 : Kitty
+- 09u10 : Catho
+- 09u40 : Indy
+- 10u00 : Thibault
 - 10u20 PAUZE
-- 10u40
-- 11u00
-- 11u20
-- 11u40
-- 12u00
+- 10u40 : Nick
+- 11u00 : Dante
+- 11u20 : Robbe
+- 11u40 : Mats
+- 12u00 : PAUZE
+- 12u10 : Marcin
+- 12u30 : Viktor
