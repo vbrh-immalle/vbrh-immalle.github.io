@@ -32,5 +32,6 @@ title: GIP Websites 2018-2019
 - 11u20 : Robbe
 - 11u40 : Mats
 - 12u00 : PAUZE
-- 12u10 : Marcin
-- 12u30 : Viktor
+- 12u40 : Marcin
+- 13u00 : Viktor
+- 13u20 : Laurens
