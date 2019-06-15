@@ -9,7 +9,7 @@ title: GIP Websites 2018-2019
 | 2 | [Mats](https://matsb-immalle.github.io/GipSite/site/) | [repo](https://github.com/MatsB-immalle/GipSite) |
 | 3 | [Dante](https://danteb-immalle.github.io/Website/) | [repo](https://github.com/DanteB-immalle/Website) |
 | 4 | [Indy Caluwe](https://indyc-immalle.github.io//3-bootstrap/bootstrap.html) |[repo](https://github.com/indyc-immalle/indyc-immalle.github.io)|
-| 5 | [Catho](https://github.com/cathoDr-immalle/vbrh-immalle.github.io) | [repo](https://github.com/cathoDr-immalle/GipSite) |
+| 5 | [Catho](https://cathodr-immalle.github.io/GipSite/it/Website/main.html) | [repo](https://github.com/cathoDr-immalle/GipSite) |
 | 6 | [Laurens](https://laurensf-immalle.github.io/Website/)| [repo](https://github.com/LaurensF-immalle/Website) |
 | 7 | [Robbe](https://robbeg-immalle.github.io/Website/index.html) | [repo](https://github.com/RobbeG-immalle/Website) |
 | 8 | [Viktor Hendrickx](https://github.com/ViktorH-immalle) |[repo](https://viktorh-immalle.github.io/GipWebsite/) |
