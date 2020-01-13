@@ -5,7 +5,7 @@ title: GIP Websites 2019-2020
 
 | klasnummer | website | repo |
 |---|---|---|
-| 3 | [Hans](https://michield-immalle.github.io/GIP_Website//) | [repo](https://github.com/michield-immalle/GIP_Website) |
+| 3 | [Michiel](https://michield-immalle.github.io/GIP_Website//) | [repo](https://github.com/michield-immalle/GIP_Website) |
 
 
 # planning juni
