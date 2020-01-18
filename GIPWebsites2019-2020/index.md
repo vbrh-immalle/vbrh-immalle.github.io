@@ -12,6 +12,7 @@ title: GIP Websites 2019-2020
 | 5 | [Jarnick](https://jarnicks-immalle.github.io/WebsiteGip/) | [repo](https://github.com/JarnickS-immalle/WebsiteGip) |
 | 6 | [Nick](https://nickvl-immalle.github.io/GipWebsite/) | [repo](https://github.com/NickVL-immalle/GipWebsite) |
 | 7 | [Thijs](https://thijsv-immalle.github.io/GIP_Website/) | [repo](https://github.com/ThijsV-immalle/GIP_Website) |
+| 8 | [Brent](https://brentv-immalle.github.io/GipWebsite/) | [repo](https://github.com/BrentV-immalle/GipWebsite) |
 | 9 | [Senne](https://sennew-immalle.github.io/GipWebsite/) | [repo](https://github.com/SenneW-immalle/GipWebsite) |
 
 
