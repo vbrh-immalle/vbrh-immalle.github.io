@@ -8,6 +8,7 @@ title: GIP Websites 2019-2020
 | 0 | [Hans](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 | 1 | [Filip](https://filipb-immalle.github.io/GIPSite/) | [repo](https://github.com/FilipB-immalle/GIPSite) |
 | 2 | [Joren](https://jorendr-immalle.github.io/GipWebsite/) | [repo](https://github.com/JorenDR-immalle/GipWebsite) |
+| 3 | [Michiel](https://michield-immalle.github.io/GIP_Website/) | [repo](https://github.com/michield-immalle/GIP_Website)|
 | 4 | [Arne](https://arnem-immalle.github.io/Website-GIP/) | [repo](https://github.com/ArneM-immalle/Website-GIP) |
 | 5 | [Jarnick](https://jarnicks-immalle.github.io/WebsiteGip/) | [repo](https://github.com/JarnickS-immalle/WebsiteGip) |
 | 6 | [Nick](https://nickvl-immalle.github.io/GipWebsite/) | [repo](https://github.com/NickVL-immalle/GipWebsite) |
