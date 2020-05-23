@@ -19,13 +19,15 @@ title: GIP Websites 2019-2020
 
 # planning juni
 
-- 08u30 : 
-- 08u50 : 
-- 09u10 : 
-- 09u40 : 
-- 10u00 : 
-- 10u20 PAUZE
-- 10u40 : 
-- 11u00 : 
-- 11u20 : 
-- 11u40 : 
+- 08u30 : x
+- 08u55 : x
+- 09u20 : x
+- 09u45 : x
+- 10u10 : x
+- 10u35 PAUZE START
+- 10u45 PAUZE EINDE
+- 11u10 : x
+- 11u35 : x
+- 12u00 : x
+- 12u25 : x
+- 12u50 EINDE
