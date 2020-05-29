@@ -29,5 +29,5 @@ title: GIP Websites 2019-2020
 - 11u10 : x
 - 11u35 : x
 - 12u00 : x
-- 12u25 : x
+- 12u25 : Senne
 - 12u50 EINDE
