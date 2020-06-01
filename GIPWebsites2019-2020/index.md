@@ -27,5 +27,5 @@ title: GIP Websites 2019-2020
 - 10u20 PAUZE
 - 10u40 : 
 - 11u00 : 
-- 11u20 : 
+- 11u20 : Michiel_Dries
 - 11u40 : 
