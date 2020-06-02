@@ -19,7 +19,7 @@ title: GIP Websites 2019-2020
 
 # planning juni
 
-- 08u30 : x
+- 08u30 : Meylemans Arne
 - 08u55 : Brent
 - 09u20 : x
 - 09u45 : x
@@ -27,7 +27,7 @@ title: GIP Websites 2019-2020
 - 10u35 PAUZE START
 - 10u45 PAUZE EINDE
 - 11u10 : x
-- 11u35 : x
+- 11u35 : Michiel
 - 12u00 : x
 - 12u25 : Senne
 - 12u50 EINDE
