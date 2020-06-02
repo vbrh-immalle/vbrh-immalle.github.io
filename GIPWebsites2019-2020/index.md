@@ -23,7 +23,7 @@ title: GIP Websites 2019-2020
 - 08u55 : Brent
 - 09u20 : x
 - 09u45 : x
-- 10u10 : x
+- 10u10 : Filip
 - 10u35 PAUZE START
 - 10u45 PAUZE EINDE
 - 11u10 : x
