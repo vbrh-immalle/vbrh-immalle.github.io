@@ -20,7 +20,7 @@ title: GIP Websites 2019-2020
 # planning juni
 
 - 08u30 : Meylemans Arne
-- 08u55 : x
+- 08u55 : Brent
 - 09u20 : x
 - 09u45 : x
 - 10u10 : x
