@@ -13,7 +13,7 @@ title: GIP Websites 2019-2020
 - 08u30 : 
 - 08u50 : 
 - 09u10 : 
-- 09u40 : 
+- 09u40 : Thijs
 - 10u00 : 
 - 10u20 PAUZE
 - 10u40 : 
