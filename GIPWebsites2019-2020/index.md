@@ -21,7 +21,7 @@ title: GIP Websites 2019-2020
 
 - 08u30 : Meylemans Arne
 - 08u55 : Brent
-- 09u20 : x
+- 09u20 : Nick
 - 09u45 : x
 - 10u10 : Filip
 - 10u35 PAUZE START
