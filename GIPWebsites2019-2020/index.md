@@ -28,6 +28,6 @@ title: GIP Websites 2019-2020
 - 10u45 PAUZE EINDE
 - 11u10 : x
 - 11u35 : Michiel
-- 12u00 : x
+- 12u00 : De Rijk Joren
 - 12u25 : Senne
 - 12u50 EINDE
