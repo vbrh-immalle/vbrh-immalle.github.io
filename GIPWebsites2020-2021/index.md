@@ -6,7 +6,7 @@ title: GIP Websites 2020-2021
 | klasnummer | website | repo |
 |---|---|---|
 | 0 | [Hans](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
-
+| 1 | [Lennert](https://lennertl-immalle.github.io/GipWebsite/) | [repo](https://github.com/LennertL-immalle/GipWebsite) |
 
 # planning juni
 
