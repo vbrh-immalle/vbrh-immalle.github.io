@@ -18,8 +18,8 @@ title: GIP Websites 2020-2021
 - 09u25 : Senne
 - 09u50 : Lennert
 - 10u15 : Bryan
-- 10u15 PAUZE START
-- 10u30 PAUZE EINDE
-- 10u30 : Baue
-- 10u55 : Benjamin
-- 11u15 EINDE
+- 10u40 PAUZE START
+- 10u55 PAUZE EINDE
+- 10u55 : Baue
+- 11u20 : Benjamin
+- 11u45 EINDE
