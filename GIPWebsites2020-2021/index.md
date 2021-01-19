@@ -4,11 +4,8 @@ title: GIP Websites 2020-2021
 ---
 
 | klasnummer | website | repo |
-| 5 | [Benjamin](http://vbrh-immalle.github.io/) | https://github.com/BenjaminL-immalle/GIP-website |
-| 0 | [Hans](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
-
-
-# planning juni
+| 5 | [Benjamin](https://benjaminl-immalle.github.io/GIP-website/) | [repo](https://github.com/BenjaminL-immalle/GIP-website) |
+| 0 | [Hans](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immle.github.io/GIP-website/)
 
 - 08u30 : 
 - 08u55 : 
