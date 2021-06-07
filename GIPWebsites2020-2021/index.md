@@ -12,7 +12,7 @@ title: GIP Websites 2020-2021
 | 5 | [Benjamin](https://benjaminl-immalle.github.io/GIP-website/) | [repo](https://github.com/BenjaminL-immalle/GIP-website) |
 | 6 | [Baue](https://baueseb.github.io/Gipwebsite/) | [repo](https://github.com/BaueSeb/Gipwebsite) |
 
-# planning juni
+# planning vrijdag 18 juni 2021
 
 - 09u30 : Flor
 - 09u55 : Senne
