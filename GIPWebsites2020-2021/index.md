@@ -8,7 +8,7 @@ title: GIP Websites 2020-2021
 | 0 | [Hans](http://vbrh-immalle.github.io/) | [repo](https://github.com/vbrh-immalle/vbrh-immalle.github.io) |
 | 2 | [Flor](https://flordc-immalle.github.io/Gipwebsite/index.html) | [repo](https://github.com/FlorDC-immalle/Gipwebsite) |
 | 4 | [Lennert](https://lennertl-immalle.github.io/GipWebsite/) | [repo](https://github.com/LennertL-immalle/GipWebsite) |
-| 6 | [Baue](https://baues-immalle.github.io/Gipwebsite/) | [repo](https://github.com/BaueS-immalle/Gipwebsite) |
+| 6 | [Baue](https://baueseb.github.io/Gipwebsite/) | [repo](https://github.com/BaueSeb/Gipwebsite) |
 
 
 # planning juni
