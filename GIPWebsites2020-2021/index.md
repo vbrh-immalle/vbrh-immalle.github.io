@@ -14,12 +14,12 @@ title: GIP Websites 2020-2021
 
 # planning juni
 
-- 09u00 : Flor
-- 09u25 : Senne
-- 09u50 : Lennert
-- 10u15 : Bryan
-- 10u40 PAUZE START
-- 10u55 PAUZE EINDE
-- 10u55 : Baue
-- 11u20 : Benjamin
-- 11u45 EINDE
+- 09u30 : Flor
+- 09u55 : Senne
+- 10u20 : Lennert
+- 10u45 PAUZE START
+- 11u00 PAUZE EINDE
+- 11u00 : Bryan
+- 11u25 : Baue
+- 11u45 : Benjamin
+- 12u05 EINDE
