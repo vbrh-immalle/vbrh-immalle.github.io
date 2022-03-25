@@ -5,7 +5,7 @@ title: GIP Websites 2021-2022
 
 | klasnummer | website | repo |
 |---|---|---|
-| 0 | [Voorbeeld](https://vbrh-immalle.github.io/GipWebsite/) | [repo](https://github.com/vbrh-immalle.github.io/) |
+| 1 | [Matthias](https://lissun.github.io/Gipwebsite/) | [repo](https://github.com/Lissun/Gipwebsite) |
 
 
 # planning ?? juni 2022
