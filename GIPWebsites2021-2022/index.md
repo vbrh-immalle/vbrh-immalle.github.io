@@ -7,6 +7,7 @@ title: GIP Websites 2021-2022
 |---|---|---|
 | 1 | [Matthias](https://lissun.github.io/Gipwebsite/) | [repo](https://github.com/Lissun/Gipwebsite) |
 | 2 | [Ewoud](https://ewoudf-immalle.github.io/Gipwebsite/) | [repo](https://github.com/EwoudF-immalle/Gipwebsite) |
+| 4 | [Wesley](https://wesleyvl-immalle.github.io/Gipwebsite/) | [repo](https://wesleyvl-immalle.github.io/Gipwebsite/) |
 
 
 # planning ?? juni 2022
