@@ -13,8 +13,16 @@ title: GIP Websites 2021-2022
 
 # planning ?? juni 2022
 
-- 8u30
-- 8u55
-- 10u45 PAUZE START
-- 11u00 PAUZE EINDE
-- 12u05 EINDE
+- 10u20: *todo*
+- 10u45: *todo*
+- 11u10: *todo*
+- 11u35: *todo*
+- 12u  : *todo*
+- PAUZE START: 12u30
+- 12u55: *todo*
+- 13u20: *todo*
+- 13u45: *todo*
+- 14u10: *todo*
+- 14u35: *todo*
+- 15u  : *todo*
+- 15u25: *todo*
