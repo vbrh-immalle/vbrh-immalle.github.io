@@ -11,7 +11,7 @@ title: GIP Websites 2021-2022
 | 11 | [Michiel](https://michielvdb-immalle.github.io/GIPwebsite/) | [repo](https://github.com/MichielVDB-immalle/GIPwebsite) |
 
 
-# planning ?? juni 2022
+# planning donderdag 23 juni 2022
 
 - 10u20: *todo*
 - 10u45: *todo*
