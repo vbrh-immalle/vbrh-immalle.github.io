@@ -19,7 +19,7 @@ title: GIP Websites 2021-2022
 - 11u35: *todo*
 - 12u  : *todo*
 - PAUZE START: 12u30
-- 12u55: *todo*
+- 12u55: Sebastiaan Smit
 - 13u20: *todo*
 - 13u45: *todo*
 - 14u10: *todo*
