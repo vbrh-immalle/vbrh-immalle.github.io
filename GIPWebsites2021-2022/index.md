@@ -11,6 +11,7 @@ title: GIP Websites 2021-2022
 | 11 | [Michiel](https://michielvdb-immalle.github.io/GIPwebsite/) | [repo](https://github.com/MichielVDB-immalle/GIPwebsite) |
 | 5 | [Thomas vn](https://thomasvn-immalle.github.io/GIPWebsite/) | [repo](https://github.com/ThomasVN-immalle/GIPWebsite) |
 | 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
+| 2 | [Pedro](https://github.com/pOiMiNaToR/Gipwebsite) | [repo](https://poiminator.github.io/Gipwebsite/) |
 
 
 # planning donderdag 23 juni 2022
@@ -22,7 +23,7 @@ title: GIP Websites 2021-2022
 - 12u  : *todo*
 - PAUZE START: 12u30
 - 12u55: Sebastiaan Smit
-- 13u20: *todo*
+- 13u20: Pedro Knaepkens
 - 13u45: *todo*
 - 14u10: *todo*
 - 14u35: *todo*
