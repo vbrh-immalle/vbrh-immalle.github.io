@@ -12,6 +12,8 @@ title: GIP Websites 2021-2022
 | 5 | [Thomas vn](https://thomasvn-immalle.github.io/GIPWebsite/) | [repo](https://github.com/ThomasVN-immalle/GIPWebsite) |
 | 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
 | 2 | [Pedro](https://github.com/pOiMiNaToR/Gipwebsite) | [repo](https://poiminator.github.io/Gipwebsite/) |
+| 3 | [Louis](https://louish-immalle.github.io/GIPWebsite/) | [repo](https://github.com/LouisH-immalle/GIPWebsite) |
+
 
 
 # planning donderdag 23 juni 2022
