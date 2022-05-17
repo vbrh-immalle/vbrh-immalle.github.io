@@ -11,7 +11,7 @@ title: GIP Websites 2021-2022
 | 11 | [Michiel](https://michielvdb-immalle.github.io/GIPwebsite/) | [repo](https://github.com/MichielVDB-immalle/GIPwebsite) |
 | 5 | [Thomas vn](https://thomasvn-immalle.github.io/GIPWebsite/) | [repo](https://github.com/ThomasVN-immalle/GIPWebsite) |
 | 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
-| 2 | [Pedro](https://github.com/pOiMiNaToR/Gipwebsite) | [repo](https://poiminator.github.io/Gipwebsite/) |
+| 2 | [Pedro](https://poiminator.github.io/Gipwebsite/) | [repo]( https://github.com/pOiMiNaToR/Gipwebsite) | 
 | 3 | [Louis](https://louish-immalle.github.io/GIPWebsite/) | [repo](https://github.com/LouisH-immalle/GIPWebsite) |
 | 4 | [Thomas](https://commiemonkey.github.io/GIP-Website/) | [repo](https://github.com/CommieMonkey/GIP-Website) |
 
