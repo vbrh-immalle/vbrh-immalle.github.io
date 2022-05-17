@@ -13,6 +13,7 @@ title: GIP Websites 2021-2022
 | 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
 | 2 | [Pedro](https://github.com/pOiMiNaToR/Gipwebsite) | [repo](https://poiminator.github.io/Gipwebsite/) |
 | 3 | [Louis](https://louish-immalle.github.io/GIPWebsite/) | [repo](https://github.com/LouisH-immalle/GIPWebsite) |
+| 4 | [Thomas](https://commiemonkey.github.io/GIP-Website/) | [repo](https://github.com/CommieMonkey/GIP-Website) |
 
 
 
@@ -26,7 +27,7 @@ title: GIP Websites 2021-2022
 - PAUZE START: 12u30
 - 12u55: Sebastiaan Smit
 - 13u20: Pedro Knaepkens
-- 13u45: *todo*
+- 13u45: Thomas Van Aert
 - 14u10: *todo*
 - 14u35: *todo*
 - 15u  : *todo*
