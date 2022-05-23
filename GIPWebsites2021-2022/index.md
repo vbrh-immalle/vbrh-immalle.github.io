@@ -9,7 +9,7 @@ title: GIP Websites 2021-2022
 |---|---|---|
 | 1 | [Siemen][(https://commiemonkey.github.io/GIP-Website/)] | [repo](https://github.com/SiemenDPC-immalle/Gipwebsite) | 
 | 2 | [Pedro](https://poiminator.github.io/GIPWebsite/) | [repo]( https://github.com/pOiMiNaToR/Gipwebsite) | 
-| 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
+| 3 | [Sebastiaan](https://sebastiaan-immalle.github.io/Gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite) |
 | 4 | [Wesley](https://wesleyvl-immalle.github.io/Gipwebsite/) | [repo](https://github.com/wesleyvl-immalle/Gipwebsite/) |
 | 5 | [Thomas vn](https://thomasvn-immalle.github.io/GIPWebsite/) | [repo](https://github.com/ThomasVN-immalle/GIPWebsite) |
 
@@ -22,6 +22,7 @@ title: GIP Websites 2021-2022
 | 3 | [Louis](https://louish-immalle.github.io/GIPWebsite/) | [repo](https://github.com/LouisH-immalle/GIPWebsite) |
 | 4 | [Thomas](https://commiemonkey.github.io/GIP-Website/) | [repo](https://github.com/CommieMonkey/GIP-Website) |
 | 5 | [Michiel](https://michielvdb-immalle.github.io/GIPwebsite/) | [repo](https://github.com/MichielVDB-immalle/GIPwebsite) |
+| 6 | [Ayrton](https://PopSmoked.github.io/Gipwebsite/) | [repo](https://github.com/PopSmoked/Gipwebsite) |
 
 # planning donderdag 23 juni 2022
 
